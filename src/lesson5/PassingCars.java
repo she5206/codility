@@ -21,7 +21,6 @@ public class PassingCars {
                 }
             }
         }
-
         return ans;
     }
 }
